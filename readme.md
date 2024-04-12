@@ -1,1 +1,1 @@
-# Este es el trabajo del dia del curdo d git
+# Este es el trabajo del dia del curso d git
